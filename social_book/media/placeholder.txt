@@ -1,0 +1,1 @@
+Make sure folder media is push to git.
